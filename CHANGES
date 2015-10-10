@@ -1,3 +1,9 @@
+Summary since 0.4.0-RC6 through 0.4.0-RC9
+=========================================
+- Assorted release related fixes.
+- Switched to Typesafe backed configuration system
+- Updated Solr, GWT and ASM versions
+
 Summary since 0.4.0-RC5
 ======================
 - Added option to use Solr as a search provider - this enables filtering waves by keywords.
